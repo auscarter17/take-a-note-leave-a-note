@@ -1,6 +1,14 @@
-[
+{
+  "dbArray": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Test Title",
+      "text": "Test text",
+      "id": "1"
+    },
+    {
+      "title": "test2",
+      "text": "test2",
+      "id": "338934ef-9a7e-4cbb-ad59-d11c5e72d3ee"
     }
-]
+  ]
+}
