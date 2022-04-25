@@ -1,14 +1,17 @@
-{
-  "dbArray": [
-    {
-      "title": "Test Title",
-      "text": "Test text",
-      "id": "1"
-    },
-    {
-      "title": "test2",
-      "text": "test2",
-      "id": "338934ef-9a7e-4cbb-ad59-d11c5e72d3ee"
-    }
-  ]
-}
+[
+  {
+    "title": "Test Title",
+    "text": "Test text",
+    "id": "1"
+  },
+  {
+    "title": "test2",
+    "text": "test2",
+    "id": "338934ef-9a7e-4cbb-ad59-d11c5e72d3ee"
+  },
+  {
+    "title": "note3",
+    "text": "note3",
+    "id": "8abca36b-8d66-47bf-b826-de2adb1fe991"
+  }
+]
